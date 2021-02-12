@@ -23,7 +23,7 @@ namespace ch04_Practice
             int play = x++;
 
             int divide = x % y;
-
+            // playing around with console statements
             Console.WriteLine(dec);
             Console.WriteLine(d);
             Console.WriteLine(pop);
