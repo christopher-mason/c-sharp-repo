@@ -34,6 +34,7 @@ namespace ch04_Practice
             Console.WriteLine(product);
             Console.WriteLine(play);
             Console.WriteLine(divide);
+            // start to think about project to build w/ DB
         }
     }
 }
