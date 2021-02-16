@@ -16,7 +16,7 @@ namespace ch04_Practice
             int x = 12;
             int y = 5;
 
-            int result = -x;
+            int result = x;
 
             int product = result * y;
 
